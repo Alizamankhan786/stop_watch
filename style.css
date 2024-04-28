@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bdy{
+    background-color: black;
+    color: white;
+}
+
+#main-logo{
+    text-align: center;
+    margin-top: 50px;
+    color: yellow;
+}
+
+.main-div{
+    text-align: center;
+    margin-top: 50px;
+    color: red;
+}
+
+#second-div{
+    text-align: center;
+    margin-top: 50px;
+    gap: 10px;
+}
+
+#startbtn{
+    color: red;
+    width: 70px;
+}
+
+#stopbtn{
+    color: red;
+    width: 70px;
+}
+
+#resetbtn{
+    color: red;
+    width: 70px;
+}
